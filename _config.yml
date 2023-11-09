@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:zwang@mpi-magdeburg.mpg.de"}
   - {title: Github, icon: github, url: "https://github.com/zwang1995"}
-  - {title: Subscribe, icon: google-scholar, url: "/feed.xml"}
+  - {title: Subscribe, icon: google-scholar, url: "https://scholar.google.com/citations?hl=en&user=Brb8kToAAAAJ&view_op=list_works&sortby=pubdate"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
