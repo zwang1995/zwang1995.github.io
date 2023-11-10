@@ -1,6 +1,6 @@
 CV
 
-**Education**
+### Education
 - Since 2020, **Ph.D.** in Process Systems Engineering, International Max Planck Research School for Advanced Methods in Process and Systems Engineering (IMPRS ProEng) / Otto-von-Guericke University Magdeburg, Germany
 - 2017-2020, **M.Sc.** in Chemical Engineering and Technology, Chongqing University, China
 - 2013-2017, **B.Eng.** in Chemical Engineering and Technology, Chongqing University, China
