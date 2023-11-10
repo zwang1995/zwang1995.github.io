@@ -16,7 +16,7 @@ minimal: false              # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV_Zihao Wang.pdf", title: "CV PDF"}
+  - {file: "CV_Zihao_Wang.pdf", title: "CV PDF"}
   - {file: "README.md", title: "About me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
