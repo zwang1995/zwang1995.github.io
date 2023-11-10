@@ -18,7 +18,7 @@ minimal: false              # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "News", file: "news.md"}
   - {title: "MPI", url: "https://www.mpi-magdeburg.mpg.de/person/109361/842836"}
-  - {title: "CV PDF", file: "Zihao.pdf"}
+  - {title: "CV", file: "Zihao.pdf"}
   - {title: "About me", file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
