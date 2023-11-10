@@ -1,3 +1,5 @@
+CV
+
 ### Education
 - Since 2020, **Ph.D.** in Process Systems Engineering, International Max Planck Research School for Advanced Methods in Process and Systems Engineering (IMPRS ProEng) / Otto-von-Guericke University Magdeburg, Germany
 - 2017-2020, **M.Sc.** in Chemical Engineering and Technology, Chongqing University, China
@@ -17,7 +19,7 @@
 ### Journal Article
 1. **Z. Wang**, T. Zhou, K. Sundmacher.
    Data-driven integrated design of solvents and extractive distillation processes.
-   **_AIChE Journal_**, 2023, e18236. https://doi.org/10.1002/aic.18236
+   **_AIChE Journal_**, 2023, e18236. [https://doi.org/10.1002/aic.18236](https://doi.org/10.1002/aic.18236)
 2. T. Zhou, C. Gui, L. Sun, Y. Hu, H. Lyu, **Z. Wang**, Z. Song, G. Yu.
    Energy applications of ionic liquids: Recent developments and future prospects.
    **_Chemical Reviews_**, 2023. https://doi.org/10.1021/acs.chemrev.3c00391
