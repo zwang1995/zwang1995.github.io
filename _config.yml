@@ -24,7 +24,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/zwang1995"}
   - {title: MPI, icon: user, url: "https://www.mpi-magdeburg.mpg.de/person/109361/842836"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/zihao-wang-96733519a/"}
-  - {title: Google scholar, icon: book, url: "https://scholar.google.com/citations?hl=en&user=Brb8kToAAAAJ&view_op=list_works&sortby=pubdate"}
+  - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Zihao-Wang-11"}
+  - {title: Google scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?hl=en&user=Brb8kToAAAAJ&view_op=list_works&sortby=pubdate"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
