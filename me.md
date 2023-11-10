@@ -1,7 +1,3 @@
-CV
-
-### Education
-aa
 
 ### Education
 - Since 2020, **Ph.D.** in Process Systems Engineering, International Max Planck Research School for Advanced Methods in Process and Systems Engineering (IMPRS ProEng) / Otto-von-Guericke University Magdeburg, Germany
