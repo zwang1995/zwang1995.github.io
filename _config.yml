@@ -17,13 +17,12 @@ minimal: false              # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "News", file: "news.md"}
-  - {title: "MPI", url: "https://www.mpi-magdeburg.mpg.de/person/109361/842836"}
-  - {title: "CV", file: "Zihao.pdf"}
   - {title: "About me", file: "me.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:zwang@mpi-magdeburg.mpg.de"}
   - {title: Github, icon: github, url: "https://github.com/zwang1995"}
+  - {title: MPI, icon: user, url: "https://www.mpi-magdeburg.mpg.de/person/109361/842836"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/zihao-wang-96733519a/"}
   - {title: Google scholar, icon: book, url: "https://scholar.google.com/citations?hl=en&user=Brb8kToAAAAJ&view_op=list_works&sortby=pubdate"}
 
