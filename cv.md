@@ -102,13 +102,13 @@ title: ""
 
 ### Conference Paper
 1. **Z. Wang**, T. Zhou, K. Sundmacher. (2023). Molecular property targeting for optimal solvent design in extractive distillation processes. **_Computer Aided Chemical Engineering_**, 1247–1252.
-   https://doi.org/10.1016/B978-0-443-15274-0.50199-2
+   [https://doi.org/10.1016/B978-0-443-15274-0.50199-2](https://doi.org/10.1016/B978-0-443-15274-0.50199-2)
 
 2. **Z. Wang**, T. Zhou, K. Sundmacher. (2022). A novel machine learning-based optimization approach for the molecular design of solvents. **_Computer Aided Chemical Engineering_**, 1477–1482.
-   https://doi.org/10.1016/B978-0-323-95879-0.50247-2
+   [https://doi.org/10.1016/B978-0-323-95879-0.50247-2](https://doi.org/10.1016/B978-0-323-95879-0.50247-2)
 
 3. T. Zhou, **Z. Wang**, K. Sundmacher. (2022). A new machine learning framework for efficient MOF discovery: Application to hydrogen storage. **_Computer Aided Chemical Engineering_**, 1807–1812.
-   https://doi.org/10.1016/B978-0-323-85159-6.50301-8
+   [https://doi.org/10.1016/B978-0-323-85159-6.50301-8](https://doi.org/10.1016/B978-0-323-85159-6.50301-8)
 
 ### Conference Talk
 1. **Z. Wang**, T. Zhou, K. Sundmacher. Data-driven integrated design of solvents and extractive distillation processes. Presented at: **2023 AIChE Annual Meeting**. Orlando, USA, November 08, 2023.
