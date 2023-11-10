@@ -16,6 +16,7 @@ minimal: false              # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "news.md", title: "News"}
   - {file: "CV_Zihao_Wang.pdf", title: "CV PDF"}
   - {file: "README.md", title: "About me"}
 
