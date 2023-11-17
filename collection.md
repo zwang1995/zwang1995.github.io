@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Collection of Open Resources for Scientific Research"
+title: "Collection of Open Science Resources"
 ---
 
 ### Computational Materials Science
