@@ -4,14 +4,17 @@ title: "Collection of Valuable Resources for Scientific Research"
 ---
 
 ### Computational Materials Science
-- [MOFXDB](https://mof.tech.northwestern.edu/): a database of computational adsorption data for metal-organic frameworks (MOFs)
+#### Database
 - [Cambridge Crystallographic Data Centre (CCDC)](https://www.ccdc.cam.ac.uk/structures/): a database of small molecule crystal structures
+- [MOFXDB](https://mof.tech.northwestern.edu/): a database of computational adsorption data for metal-organic frameworks (MOFs)
+- [Computation-Ready Experimental Metal-Organic Framework (CoRE MOF) 2019 Dataset](https://zenodo.org/records/7691378)
+- [CoRE COF Database](https://core-cof.github.io/CoRE-COF-Database/)
+
+#### Tool
 - [Reticular Chemistry Structure Resource](https://rcsr.anu.edu.au/)
 - [MOF+](https://www.mofplus.org/)
 - [Zeo++](http://www.zeoplusplus.org/): geometry-based analysis of crystalline porous materials
 - [RASPA](https://iraspa.org/raspa/): molecular simulation for adsorption and diffusion in nanoporous materials​
-- [Computation-Ready Experimental Metal-Organic Framework (CoRE MOF) 2019 Dataset](https://zenodo.org/records/7691378)
-- [CoRE COF Database](https://core-cof.github.io/CoRE-COF-Database/)
 - [Materials Project](https://next-gen.materialsproject.org/)
 - [TraPPE Force Field](http://trappe.oit.umn.edu/)
 - [PorousMaterials](https://simonensemble.github.io/PorousMaterials.jl/stable/)
