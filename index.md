@@ -15,8 +15,8 @@ I am currently a Ph.D. student in the **[Process Systems Engineering Group](http
 
 ### Skill
 - Machine Learning
-- Modeling and Optimization
+- Mathematical Modeling and Optimization
 - Computer-Aided Molecular Design
-- Chemical Process Simulation and Optimization
+- Process Modeling, Simulation, and Optimization
 - Molecular Simulation
 
