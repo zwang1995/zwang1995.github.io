@@ -37,7 +37,7 @@ title: "Collection of Open Science Resources"
 - [Nanoporous Materials Genome Center](http://www1.chem.umn.edu/nmgc/)
 - [Amsterdam Centre for Multiscale Modelling](https://www.acmm.nl/)
 - [Center for Molecular Modeling](https://molmod.ugent.be/)
-- [NOMAD](https://nomad-lab.eu/nomad-lab/)
+- [FAIR Data Infrastructure for Physics, Chemistry, Materials Science, and Astronomy](https://www.fair-di.eu/fair-di/)
 - [Materials Science Community Discourse](https://matsci.org/)
 - [Materials Cloud](https://www.materialscloud.org/home)
 - [Catalysis Hub](https://www.catalysis-hub.org/)
