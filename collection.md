@@ -34,11 +34,11 @@ title: "Collection of Open Science Resources"
 
 
 ## Research Community
-- [Nanoporous Materials Genome Center](http://www1.chem.umn.edu/nmgc/)
-- [Amsterdam Centre for Multiscale Modelling](https://www.acmm.nl/)
+- [Nanoporous Materials Genome Center (NMGC)](http://www1.chem.umn.edu/nmgc/)
+- [Amsterdam Centre for Multiscale Modelling (ACMM)](https://www.acmm.nl/)
 - [Computational Chemical Sciences (CCS) Initiative](https://ccs-psi.org/)
 - [Center for Molecular Modeling](https://molmod.ugent.be/)
-- [FAIR Data Infrastructure for Physics, Chemistry, Materials Science, and Astronomy](https://www.fair-di.eu/fair-di/)
+- [FAIR Data Infrastructure (FAIR-DI) for Physics, Chemistry, Materials Science, and Astronomy](https://www.fair-di.eu/fair-di/)
 - [Materials Science Community Discourse](https://matsci.org/)
 - [Materials Cloud](https://www.materialscloud.org/home)
 - [Catalysis Hub](https://www.catalysis-hub.org/)
