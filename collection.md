@@ -46,8 +46,8 @@ title: "Collection of Open Science Resources"
 
 
 ## Computation Molecular Science
-- [PubChem]: a database of chemical molecules and their activities against biological assays
-- [ChemSpider]: a chemical structure database
+- [PubChem](https://pubchem.ncbi.nlm.nih.gov/): a database of chemical molecules and their activities against biological assays
+- [ChemSpider](https://www.chemspider.com/): a chemical structure database
 - [Melting Point Dataset](http://dx.doi.org/10.6084/m9.figshare.1031638): Jean-Claude Bradley Open Melting Point Dataset
 - [MoleculeNet](https://moleculenet.org/): a benchmark for molecular machine learning
 - [Chemical Computing Group](https://www.chemcomp.com/index.htm): research software for computational chemistry
