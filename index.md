@@ -7,9 +7,16 @@ I am currently a Ph.D. student in the **[Process Systems Engineering Group](http
 
 <br>
 
-**Main Focus**
+### Main Focus
 - Data-Driven Multiscale Modeling and Optimization
 - Integrated Molecular and Process Design
 - Porous Materials for Carbon Capture
 - Artificial Intelligence for Science (AI4Science)
+
+### Skill
+- Machine Learning
+- Modeling and Optimization
+- Computer-Aided Molecular Design
+- Chemical Process Simulation and Optimization
+- Molecular Simulation
 
