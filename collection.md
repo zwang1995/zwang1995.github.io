@@ -5,14 +5,14 @@ title: "Collection of Open Science Resources"
 
 ## Computational Materials Science
 ### Database
-- [Cambridge Crystallographic Data Centre (CCDC)](https://www.ccdc.cam.ac.uk/structures/): a database of small molecule crystal structures
-- [Materials Project](https://next-gen.materialsproject.org/): a database of inorganic materials and their properties
-- [Open Quantum Materials Database](https://oqmd.org/): a database of DFT calculated thermodynamic and structural properties of materials
+- [Cambridge Crystallographic Data Centre (CCDC)](https://www.ccdc.cam.ac.uk/structures/): small molecule crystal structures
+- [Materials Project](https://next-gen.materialsproject.org/): inorganic materials and their properties
+- [Open Quantum Materials Database](https://oqmd.org/): DFT calculated thermodynamic and structural properties of materials
 - [Computation-Ready Experimental Metal-Organic Framework (CoRE MOF) 2019 Dataset](https://zenodo.org/records/7691378)
 - [Computation-Ready Experimental Covalent Organic Framework (CoRE COF) Database](https://core-cof.github.io/CoRE-COF-Database/)
-- [MOFX-DB](https://mof.tech.northwestern.edu/): a database of computational adsorption data for metal-organic frameworks (MOFs)
-- [AFLOW](http://www.aflowlib.org/): a database of material compounds with calculated properties
-- [Crystallography Open Database](http://www.crystallography.net/cod/): crystal structures of organic, inorganic, metal-organic compounds and minerals
+- [MOFX-DB](https://mof.tech.northwestern.edu/): computational adsorption data for metal-organic frameworks (MOFs)
+- [AFLOW](http://www.aflowlib.org/): material compounds with calculated properties
+- [Crystallography Open Database](http://www.crystallography.net/cod/): crystal structures of organic, inorganic, metal-organic compounds, and minerals
 
 ### Computational Tool
 - [RASPA](https://iraspa.org/raspa/): molecular simulation for adsorption and diffusion in nanoporous materials​
@@ -28,7 +28,7 @@ title: "Collection of Open Science Resources"
 
 
 ## Materials Informatics
-- [Python Materials Genomics (Pymatgen)](https://pymatgen.org/): Python library for materials analysis (Python 3.9 and above only)
+- [Python Materials Genomics (Pymatgen)](https://pymatgen.org/): Python library for materials analysis
 - [Materials Data Mining (matminer)](https://matminer.readthedocs.io/): Python library for mining the properties of materials
 - [Joint Automated Repository for Various Integrated Simulations (JARVIS)](https://jarvis.nist.gov/): automate materials discovery and optimization 
 
@@ -46,14 +46,14 @@ title: "Collection of Open Science Resources"
 
 
 ## Computation Molecular Science
-- [PubChem](https://pubchem.ncbi.nlm.nih.gov/): a database of chemical molecules and their activities against biological assays
-- [ChemSpider](https://www.chemspider.com/): a chemical structure database
+- [PubChem Database](https://pubchem.ncbi.nlm.nih.gov/): chemical molecules and their activities against biological assays
+- [ChemSpider Database](https://www.chemspider.com/): chemical structures
 - [Melting Point Dataset](http://dx.doi.org/10.6084/m9.figshare.1031638): Jean-Claude Bradley Open Melting Point Dataset
 - [MoleculeNet](https://moleculenet.org/): a benchmark for molecular machine learning
 - [Chemical Computing Group](https://www.chemcomp.com/index.htm): research software for computational chemistry
-- [ChEMBL](https://www.ebi.ac.uk/chembl/): a database of bioactive molecules with drug-like properties
+- [ChEMBL Database](https://www.ebi.ac.uk/chembl/): bioactive molecules with drug-like properties
 - [GDB Database](https://gdb.unibe.ch/downloads/): small organic molecules
-- [ZINC](https://zinc15.docking.org/): a database of commercially-available compounds
+- [ZINC Database](https://zinc15.docking.org/): commercially-available compounds
 
 
 ## Explainable Artificial Intelligence (XAI)
