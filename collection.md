@@ -33,7 +33,7 @@ title: "Collection of Open Science Resources"
 - [Joint Automated Repository for Various Integrated Simulations (JARVIS)](https://jarvis.nist.gov/): automate materials discovery and optimization 
 
 
-## Community/Research Group
+## Research Community
 - [Nanoporous Materials Genome Center](http://www1.chem.umn.edu/nmgc/)
 - [Amsterdam Centre for Multiscale Modelling](https://www.acmm.nl/)
 - [Center for Molecular Modeling](https://molmod.ugent.be/)
