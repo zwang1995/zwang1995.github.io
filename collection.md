@@ -21,6 +21,7 @@ title: "Collection of Open Science Resources"
 - [Zeo++](http://www.zeoplusplus.org/): geometry-based analysis of crystalline porous materials
 - [Reticular Chemistry Structure Resource](https://rcsr.anu.edu.au/): symbols for periodic nets of crystalline materials
 - [Topologically Based Crystal Constructor (ToBaCCo)](https://github.com/tobacco-mofs/tobacco_3.0): produce crystallographic information (.cif) files of porous crystals for molecular simulation
+- [pyIAST](https://pyiast.readthedocs.io): predicts mixed-gas adsorption isotherms from a set of pure-component gas adsorption isotherms in a nanoporous material using Ideal Adsorbed Solution Theory (IAST)
 
 ### Force Field Parameter
 - [TraPPE Force Field](http://trappe.oit.umn.edu/)
