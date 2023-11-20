@@ -21,4 +21,5 @@ I am currently a Ph.D. student in the **[Process Systems Engineering Group](http
 - Computer-Aided Molecular Design
 - Process Modeling, Simulation, and Optimization
 - Molecular Simulation
+- Cheminformatics and Materials Informatics
 
