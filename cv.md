@@ -87,11 +87,11 @@ title: ""
 
 
 ### Conference Paper
-1. **Z. Wang**, T. Zhou, K. Sundmacher. (**2023**). Molecular property targeting for optimal solvent design in extractive distillation processes. **_Computer Aided Chemical Engineering_**, 1247–1252.
+1. **Z. Wang**, T. Zhou, K. Sundmacher. Molecular property targeting for optimal solvent design in extractive distillation processes. **_Computer Aided Chemical Engineering_**, **2023**, 1247–1252.
    ([**Paper Link**](https://doi.org/10.1016/B978-0-443-15274-0.50199-2) and [**GitHub Repository**](https://github.com/zwang1995/data-driven-CAMPD))
-2. **Z. Wang**, T. Zhou, K. Sundmacher. (**2022**). A novel machine learning-based optimization approach for the molecular design of solvents. **_Computer Aided Chemical Engineering_**, 1477–1482.
+2. **Z. Wang**, T. Zhou, K. Sundmacher. A novel machine learning-based optimization approach for the molecular design of solvents. **_Computer Aided Chemical Engineering_**, **2022**, 1477–1482.
    ([**Paper Link**](https://doi.org/10.1016/B978-0-323-95879-0.50247-2) and [**GitHub Repository**](https://github.com/zwang1995/solvent-VAE-NLP))
-3. T. Zhou, **Z. Wang**, K. Sundmacher. (**2022**). A new machine learning framework for efficient MOF discovery: Application to hydrogen storage. **_Computer Aided Chemical Engineering_**, 1807–1812.
+3. T. Zhou, **Z. Wang**, K. Sundmacher. A new machine learning framework for efficient MOF discovery: Application to hydrogen storage. **_Computer Aided Chemical Engineering_**, **2022**, 1807–1812.
    ([**Paper Link**](https://doi.org/10.1016/B978-0-323-85159-6.50301-8))
 
 ### Conference Talk
@@ -104,7 +104,7 @@ title: ""
 3. Z. Ayaz, **Z. Wang**, A. Lieb, K. Sundmacher, F. Scheffler. Synthesis and characterisation of CALF-20/GO nanocomposites for microwave assisted adsorbate regeneration. Presented at: **8th International Conference on Metal-Organic Frameworks and Open Framework Compounds**. Dresden, Germany, September 5, **2022**
 
 ### Master’s Thesis Supervision
-1. S.D. Sreedhar. (**2023**). Surrogate-based optimization of extractive distillation processes using active learning. Otto-von-Guericke University Magdeburg, Germany.
+1. S.D. Sreedhar. Surrogate-based optimization of extractive distillation processes using active learning. Otto-von-Guericke University Magdeburg, Germany, **2023**.
 
 
 
