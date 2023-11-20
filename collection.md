@@ -13,6 +13,7 @@ title: "Collection of Open Science Resources"
 - [MOFX-DB](https://mof.tech.northwestern.edu/): computational adsorption data for metal-organic frameworks (MOFs)
 - [AFLOW](http://www.aflowlib.org/): material compounds with calculated properties
 - [Crystallography Open Database](http://www.crystallography.net/cod/): crystal structures of organic, inorganic, metal-organic compounds, and minerals
+- [NIST/ARPA-E Database of Novel and Emerging Adsorbent Materials](https://adsorption.nist.gov/isodb/index.php#home): adsorbent materials and measured adsorption properties from the scientific literature
 
 ### Computational Tool
 - [RASPA](https://iraspa.org/raspa/): molecular simulation for adsorption and diffusion in nanoporous materials​
