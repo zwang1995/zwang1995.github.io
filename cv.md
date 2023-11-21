@@ -26,7 +26,7 @@ title: ""
    ([**Paper Link**](https://doi.org/10.1002/aic.18236) and [**GitHub Repository**](https://github.com/zwang1995/data-driven-CAMPD))
 2. T. Zhou, C. Gui, L. Sun, Y. Hu, H. Lyu, **Z. Wang**, Z. Song, G. Yu.
    Energy applications of ionic liquids: Recent developments and future prospects.
-   **_Chemical Reviews_**, **2023**.
+   **_Chemical Reviews_**, **2023**, 123(21), 12170–12253.
    ([**Paper Link**](https://doi.org/10.1021/acs.chemrev.3c00391))
 3. **Z. Wang**, T. Zhou, K. Sundmacher.
    Interpretable machine learning for accelerating the discovery of metal-organic frameworks for ethane/ethylene separation.
