@@ -44,22 +44,22 @@ title: ""
    High-throughput computational screening of ionic liquids for butadiene and butene separation.
    **_Processes_**, **2022**, 10(1), 165.
    ([**Paper Link**](https://doi.org/10.3390/pr10010165))
-7. X. Zhang, S. Sethi, **Z. Wang**, T. Zhou, Z. Qi, K. Sundmacher.
+7. H. Wen, Y. Su, **Z. Wang**, S. Jin, J. Ren, W. Shen, M. Eden.
+    A systematic modeling methodology of deep neural network-based structure-property relationship for rapid and reliable prediction on flashpoints.
+    **_AIChE Journal_**, **2022**, 68(1), e17402.
+    ([**Paper Link**](https://doi.org/10.1002/aic.17402))
+8. X. Zhang, S. Sethi, **Z. Wang**, T. Zhou, Z. Qi, K. Sundmacher.
    A neural recommender system for efficient adsorbent screening.
    **_Chemical Engineering Science_**, **2022**, 259, 117801.
    ([**Paper Link**](https://doi.org/10.1016/j.ces.2022.117801))
-8. **Z. Wang**, Song, Z., Zhou, T.
+9. **Z. Wang**, Song, Z., Zhou, T.
    Machine learning for ionic liquid toxicity prediction.
    **_Processes_**, **2021**, 9(1), 65.
    ([**Paper Link**](https://doi.org/10.3390/pr9010065) and [**GitHub Repository**](https://github.com/zwang1995/IL-Toxicity))
-9. H. Qin, **Z. Wang**, T. Zhou, Z. Song.
+10. H. Qin, **Z. Wang**, T. Zhou, Z. Song.
    Comprehensive evaluation of COSMO-RS for predicting ternary and binary ionic liquid-containing vapor–liquid equilibria.
    **_Industrial & Engineering Chemistry Research_**, **2021**, 60(48), 17761–17777.
    ([**Paper Link**](https://doi.org/10.1021/acs.iecr.1c03940))
-10. H. Wen, Y. Su, **Z. Wang**, S. Jin, J. Ren, W. Shen, M. Eden.
-    A systematic modeling methodology of deep neural network-based structure-property relationship for rapid and reliable prediction on flashpoints.
-    **_AIChE Journal_**, **2021**, e17402.
-    ([**Paper Link**](https://doi.org/10.1002/aic.17402))
 11. A. Yang, Y. Su, **Z. Wang**, S. Jin, J. Ren, X. Zhang, W. Shen, J.H. Clark.
     A multi-task deep learning neural network for predicting flammability-related properties from molecular structures.
     **_Green Chemistry_**, **2021**, 23(12), 4451–4465.
