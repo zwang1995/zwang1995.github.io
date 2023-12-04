@@ -7,7 +7,7 @@ I am currently a Ph.D. student in the **[Process Systems Engineering Group](http
 
 <br>
 
-![Word-cloud](https://github.com/zwang1995/zwang1995.github.io/blob/master/wc-rectangle.jpg)
+![Word-cloud](/zwang1995.github.io/blob/master/assets/img/wc-rectangle.png)
 
 <!-- 
 <p align="center">
