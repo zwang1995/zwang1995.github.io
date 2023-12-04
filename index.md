@@ -7,6 +7,10 @@ I am currently a Ph.D. student in the **[Process Systems Engineering Group](http
 
 <br>
 
+<p align="center">
+  <img src="https://github.com/zwang1995/zwang1995.github.io/blob/master/wc-rectangle.png" width="600">
+</p>
+
 ### Main Focus
 - Data-Driven Multiscale Modeling and Optimization
 - Integrated Molecular and Process Design
