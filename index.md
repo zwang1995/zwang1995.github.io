@@ -7,8 +7,10 @@ I am currently a Ph.D. student in the **[Process Systems Engineering Group](http
 
 <br>
 
+![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+
 <p align="center">
-  <img src="https://github.com/zwang1995/zwang1995.github.io/blob/master/wc-rectangle.png" width="600">
+  <img width="600" src="https://github.com/zwang1995/zwang1995.github.io/blob/master/wc-rectangle.png">
 </p>
 
 ### Main Focus
