@@ -6,7 +6,7 @@ title: "Home"
 I am currently a Ph.D. student in the **[Process Systems Engineering Group](https://www.mpi-magdeburg.mpg.de/pse)** at the **[Max Planck Institute for Dynamics of Complex Technical Systems](https://www.mpi-magdeburg.mpg.de/2316/en)**, Germany. I received my Bachelor's and Master's degrees both in **Chemical Engineering and Technology** from **Chongqing University**, China.
 
 <p align="center">
-  <img src="wc-rectangle.png">
+  <img width=1000 src="wc-rectangle.png">
 </p>
 
 ### Main Focus
