@@ -9,7 +9,7 @@ I am currently a Ph.D. student in the **[Process Systems Engineering Group](http
   <img width=800 src="assets/img/wc-rectangle.png">
 </p>
 
-### Main Focus
+## Main Focus
 - Data-driven Multiscale Modeling and Optimization
 - Integrated Molecular and Process Design
 - Porous Materials for Carbon Capture
@@ -17,7 +17,7 @@ I am currently a Ph.D. student in the **[Process Systems Engineering Group](http
 
 <br>
 
-### Skill
+## Skill
 - Mathematical Modeling and Optimization
 - Machine Learning
 - Computer-Aided Molecular Design
