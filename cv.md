@@ -3,25 +3,30 @@ layout: page
 title: ""
 ---
 
+
 ### Education
-Since 2020 &emsp; **Ph.D. Student** &emsp; **Process Systems Engineering**
+Since 2020 &emsp; **Doctor of Engineering** in Process Systems Engineering
 > International Max Planck Research School for Advanced Methods in Process and Systems Engineering (IMPRS ProEng) / Otto-von-Guericke University Magdeburg, Germany
 > 
 > **Advisors: Prof. Kai Sundmacher, Prof. Teng Zhou**
 
-2017-2020 &emsp; **M.Sc.** &emsp; **Chemical Engineering and Technology**
+2017-2020 &emsp; **Master of Science** in Chemical Engineering and Technology
 > Chongqing University, China
 > 
 > **Advisor: Prof. Weifeng Shen**
 
-2013-2017 &emsp; **B.Eng.** &emsp; **Chemical Engineering and Technology**
+2013-2017 &emsp; **Bachelor of Engineering** in Chemical Engineering and Technology
 > Chongqing University, China
 >
 > **Advisor: Prof. Shun'an Wei**
 
+<br>
+
 ### Experience
 Since 2020 &emsp; **Doctoral Researcher**
 > Max Planck Institute for Dynamics of Complex Technical Systems, Germany
+
+<br>
 
 ### Teaching Activity
 - **Teaching Assistant**, Process Systems Engineering, Otto-von-Guericke University Magdeburg
@@ -30,6 +35,8 @@ Since 2020 &emsp; **Doctoral Researcher**
    - Summer Semester 2023
    - Summer Semester 2022
    - Summer Semester 2021
+
+<br>
 
 ### Journal Article
 1. **Z. Wang**, T. Zhou, K. Sundmacher.
@@ -97,6 +104,7 @@ Since 2020 &emsp; **Doctoral Researcher**
     **_Journal of Materials Chemistry A_**, **2017**, 5(26), 13740–13747.
     ([**Paper Link**](https://doi.org/10.1039/c7ta03734a))
 
+<br>
 
 ### Conference Paper
 1. **Z. Wang**, T. Zhou, K. Sundmacher. Molecular property targeting for optimal solvent design in extractive distillation processes. **_Computer Aided Chemical Engineering_**, **2023**, 1247–1252.
@@ -106,14 +114,20 @@ Since 2020 &emsp; **Doctoral Researcher**
 3. T. Zhou, **Z. Wang**, K. Sundmacher. A new machine learning framework for efficient MOF discovery: Application to hydrogen storage. **_Computer Aided Chemical Engineering_**, **2022**, 1807–1812.
    ([**Paper Link**](https://doi.org/10.1016/B978-0-323-85159-6.50301-8))
 
+<br>
+
 ### Conference Talk
 1. **Z. Wang**, T. Zhou, K. Sundmacher. Data-driven integrated design of solvents and extractive distillation processes. Presented at: **2023 AIChE Annual Meeting**. Orlando, USA, November 08, **2023**.
 2. **Z. Wang**, T. Zhou, K. Sundmacher. A novel machine learning-based optimization approach for the molecular design of solvents. **Keynote** presented at: **32nd European Symposium on Computer-Aided Process Engineering (ESCAPE-32)**. Toulouse, France, June 13, **2022**.
+
+<br>
 
 ### Conference Poster
 1. **Z. Wang**, T. Zhou, K. Sundmacher. Molecular property targeting for optimal solvent design in extractive distillation processes. Presented at: **33rd European Symposium on Computer-Aided Process Engineering (ESCAPE-33)**. Athens, Greece, June 19, **2023**.
 2. T. Zhou, **Z. Wang**, K. Sundmacher. A new machine learning framework for efficient MOF discovery: application to hydrogen storage. Presented at: **14th International Symposium on Process Systems Engineering (PSE 2021+)**. Kyoto, Japan, June 21, **2022**.
 3. Z. Ayaz, **Z. Wang**, A. Lieb, K. Sundmacher, F. Scheffler. Synthesis and characterisation of CALF-20/GO nanocomposites for microwave assisted adsorbate regeneration. Presented at: **8th International Conference on Metal-Organic Frameworks and Open Framework Compounds**. Dresden, Germany, September 5, **2022**
+
+<br>
 
 ### Master’s Thesis Supervision
 1. S.D. Sreedhar. Surrogate-based optimization of extractive distillation processes using active learning. Otto-von-Guericke University Magdeburg, Germany, **2023**.
