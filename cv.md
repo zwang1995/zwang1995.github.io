@@ -8,17 +8,17 @@ title: "CV"
 Since 2020 &emsp; **Doctor of Engineering** in Process Systems Engineering
 > International Max Planck Research School for Advanced Methods in Process and Systems Engineering (IMPRS ProEng) / Otto-von-Guericke University Magdeburg, Germany
 > 
-> **Advisors: Prof. Kai Sundmacher, Prof. Teng Zhou**
+> Advisors: Prof. Kai Sundmacher, Prof. Teng Zhou
 
 2017-2020 &emsp; **Master of Science** in Chemical Engineering and Technology
 > Chongqing University, China
 > 
-> **Advisor: Prof. Weifeng Shen**
+> Advisor: Prof. Weifeng Shen
 
 2013-2017 &emsp; **Bachelor of Engineering** in Chemical Engineering and Technology
 > Chongqing University, China
 >
-> **Advisor: Prof. Shun'an Wei**
+> Advisor: Prof. Shun'an Wei
 
 <br>
 
