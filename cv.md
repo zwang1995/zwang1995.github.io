@@ -4,12 +4,24 @@ title: ""
 ---
 
 ### Education
-- Since 2020, **Ph.D. Student** in Process Systems Engineering, International Max Planck Research School for Advanced Methods in Process and Systems Engineering (IMPRS ProEng) / Otto-von-Guericke University Magdeburg, Germany
-- 2017-2020, **M.Sc.** in Chemical Engineering and Technology, Chongqing University, China
-- 2013-2017, **B.Eng.** in Chemical Engineering and Technology, Chongqing University, China
+Since 2020 &emsp; **Ph.D. Student** &emsp; **Process Systems Engineering**
+> International Max Planck Research School for Advanced Methods in Process and Systems Engineering (IMPRS ProEng) / Otto-von-Guericke University Magdeburg, Germany
+> 
+> **Advisors: Prof. Kai Sundmacher, Prof. Teng Zhou**
+
+2017-2020 &emsp; **M.Sc.** &emsp; **Chemical Engineering and Technology**
+> Chongqing University, China
+> 
+> **Advisor: Prof. Weifeng Shen**
+
+2013-2017 &emsp; **B.Eng.** &emsp; **Chemical Engineering and Technology**
+> Chongqing University, China
+>
+> **Advisor: Prof. Shun'an Wei**
 
 ### Experience
-- Since 2020, **Doctoral Researcher**, Max Planck Institute for Dynamics of Complex Technical Systems, Germany
+Since 2020 &emsp; **Doctoral Researcher**
+> Max Planck Institute for Dynamics of Complex Technical Systems, Germany
 
 ### Teaching Activity
 - **Teaching Assistant**, Process Systems Engineering, Otto-von-Guericke University Magdeburg
