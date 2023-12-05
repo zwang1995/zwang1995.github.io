@@ -30,9 +30,13 @@
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
-  {% include analytics.html %}
 </header>
 
+<head>
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include analytics.html -%}
+</head>
+  
 {{ content }}
 
 {% if site.external %}
