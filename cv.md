@@ -29,12 +29,15 @@ Since 2020 &emsp; **Doctoral Researcher**
 <br>
 
 ### Teaching Activity
-- **Teaching Assistant**, Process Systems Engineering, Otto-von-Guericke University Magdeburg
-  - Winter Semester 2023
-- **Teaching Assistant**, Analysis and Design of Experiments, Otto-von-Guericke University Magdeburg
-   - Summer Semester 2023
-   - Summer Semester 2022
-   - Summer Semester 2021
+**Teaching Assistant** &emsp; Process Systems Engineering
+> Otto-von-Guericke University Magdeburg
+> - Winter Semester 2023
+
+**Teaching Assistant** &emsp; Analysis and Design of Experiments
+> Otto-von-Guericke University Magdeburg
+> - Summer Semester 2023
+> - Summer Semester 2022
+> - Summer Semester 2021
 
 <br>
 
