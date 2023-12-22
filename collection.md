@@ -65,6 +65,10 @@ title: "Collection of Open Science Resources"
 - [ELI5](https://eli5.readthedocs.io/en/latest/)
 
 
+## Machine Learning Education
+- [TensorFlow Neural Network Playground](https://playground.tensorflow.org/)
+
+
 ## Scientific Writing
 - [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
 
