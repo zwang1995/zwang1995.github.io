@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
-I am currently a Ph.D. student in the **[Process Systems Engineering Group](https://www.mpi-magdeburg.mpg.de/pse)** at the **[Max Planck Institute for Dynamics of Complex Technical Systems](https://www.mpi-magdeburg.mpg.de/2316/en)**, Germany. I received my Bachelor's and Master's degrees both in **Chemical Engineering and Technology** from **Chongqing University**, China.
+I am currently a Ph.D. student in the **[Process Systems Engineering Group](https://www.mpi-magdeburg.mpg.de/pse)** at the **[Max Planck Institute for Dynamics of Complex Technical Systems](https://www.mpi-magdeburg.mpg.de/2316/en)**, Germany. I received my Bachelor's and Master's degrees both in Chemical Engineering and Technology from Chongqing University, China.
 
 <p align="center">
   <img width=800 src="assets/img/wc-rectangle.png">
@@ -12,7 +12,7 @@ I am currently a Ph.D. student in the **[Process Systems Engineering Group](http
 ## Main Focus
 - Data-driven Multiscale Modeling and Optimization
 - Integrated Molecular and Process Design
-- Porous Materials for Carbon Capture
+- Porous Materials for Energy-efficient Gas Separation
 - Artificial Intelligence for Science (AI4Science)
 
 <br>
