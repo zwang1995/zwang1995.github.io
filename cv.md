@@ -6,7 +6,7 @@ title: "CV"
 
 ## Education
 Since 2020 &emsp; **Doctor of Engineering** in Process Systems Engineering
-> International Max Planck Research School for Advanced Methods in Process and Systems Engineering (IMPRS ProEng) / Otto-von-Guericke University Magdeburg, Germany
+> Max Planck Institute for Dynamics of Complex Technical Systems, Germany
 > 
 > Advisors: [Prof. Kai Sundmacher](https://www.mpi-magdeburg.mpg.de/person/24754/2316), [Prof. Teng Zhou](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHOU-Teng/tengzhou)
 
@@ -19,12 +19,6 @@ Since 2020 &emsp; **Doctor of Engineering** in Process Systems Engineering
 > Chongqing University, China
 >
 > Advisor: [Prof. Shun'an Wei](http://hgxy.cqu.edu.cn/szll/wsa.htm)
-
-<br>
-
-## Experience
-Since 2020 &emsp; **Doctoral Researcher**
-> Max Planck Institute for Dynamics of Complex Technical Systems, Germany
 
 <br>
 
