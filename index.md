@@ -10,9 +10,9 @@ I am currently a Ph.D. student in the **[Process Systems Engineering Group](http
 </p>
 
 ## Main Focus
-- Data-driven Multiscale Modeling and Optimization
+- Data-Driven Multiscale Modeling and Optimization
 - Integrated Molecular and Process Design
-- Porous Materials for Energy-efficient Gas Separation
+- Porous Materials for Energy-Efficient Gas Separation
 - Artificial Intelligence for Science (AI4Science)
 
 <br>
