@@ -13,12 +13,12 @@ Since 2020 &emsp; **Doctor of Engineering** in Process Systems Engineering
 2017-2020 &emsp; **Master of Science** in Chemical Engineering and Technology
 > Chongqing University, China
 > 
-> Advisor: [Prof. Weifeng Shen](http://hgxy.cqu.edu.cn/szll/swf.htm)
+> Advisor: [Prof. Weifeng Shen](http://hgxy.cqu.edu.cn/info/1515/4632.htm)
 
 2013-2017 &emsp; **Bachelor of Engineering** in Chemical Engineering and Technology
 > Chongqing University, China
 >
-> Advisor: [Prof. Shun'an Wei](http://hgxy.cqu.edu.cn/szll/wsa.htm)
+> Advisor: [Prof. Shun'an Wei](http://hgxy.cqu.edu.cn/szll/zzjs/wsa.htm)
 
 <br>
 
