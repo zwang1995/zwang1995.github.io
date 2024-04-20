@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "News"
+title: "Activity"
 ---
 
 {% if site.show_excerpts %}
