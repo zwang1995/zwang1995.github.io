@@ -3,6 +3,7 @@ layout: page
 title: "Curriculum Vitae"
 ---
 
+[Download My CV](Zihao.pdf)
 
 ## Education
 Since 2020 &emsp; **Doctor of Engineering** in Process Systems Engineering
