@@ -3,6 +3,8 @@ layout: page
 title: "Curriculum Vitae"
 ---
 
+<a href="/assets/pdf/CV_Zihao_Wang.pdf">**Download CV**</a>
+
 ## Education
 Since 2020 &emsp; **Doctor of Engineering** in Process Systems Engineering
 > Max Planck Institute for Dynamics of Complex Technical Systems, Germany
