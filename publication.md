@@ -104,13 +104,13 @@ title: "Publication"
 ## Conference Talk and Poster
 1. **Z. Wang**, T. Zhou, K. Sundmacher.
    Data-driven integrated design of solvents and extractive distillation processes. 
-   Oral Presentation at **2023 AIChE Annual Meeting**. Orlando, USA, November 08, **2023**.
+   **Oral Presentation** at **2023 AIChE Annual Meeting**. Orlando, USA, November 08, **2023**.
 
 2. **Z. Wang**, T. Zhou, K. Sundmacher.
    Molecular property targeting for optimal solvent design in extractive distillation processes. 
-   Poster at **33rd European Symposium on Computer-Aided Process Engineering (ESCAPE-33)**. Athens, Greece, June 19, **2023**.
+   **Poster** at **33rd European Symposium on Computer-Aided Process Engineering (ESCAPE-33)**. Athens, Greece, June 19, **2023**.
 
 3. **Z. Wang**, T. Zhou, K. Sundmacher. 
    A novel machine learning-based optimization approach for the molecular design of solvents. 
-   **Keynote** Oral Presentation at **32nd European Symposium on Computer-Aided Process Engineering (ESCAPE-32)**. Toulouse, France, June 13, **2022**.
+   **Keynote Oral Presentation** at **32nd European Symposium on Computer-Aided Process Engineering (ESCAPE-32)**. Toulouse, France, June 13, **2022**.
 
