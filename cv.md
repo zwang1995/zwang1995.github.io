@@ -3,7 +3,9 @@ layout: page
 title: "Curriculum Vitae"
 ---
 
-#<a href="/assets/pdf/CV_Zihao_Wang.pdf">**Download CV**</a>
+<!--
+<a href="/assets/pdf/CV_Zihao_Wang.pdf">**Download CV**</a>
+-->
 
 ## Education
 Since 2020 &emsp; **Doctor of Engineering** in Process Systems Engineering
@@ -37,10 +39,10 @@ Since 2020 &emsp; **Doctor of Engineering** in Process Systems Engineering
 <br>
 
 ## Award and Honor
-- 2024, Chinese Government Award for Outstanding Self-financed Students Abroad
-- 2020-2024, PhD Fellowship, International Max Planck Research School
-- 2019-2020, Outstanding Graduate Student, Chongqing University
-- 2018-2020, Class A Scholarship, Chongqing University
-- 2016, Second Prize, 10th National College Student Chemical Engineering Design Competition, China
+- 2024 &ensp;&ensp;&ensp;&ensp;&ensp;&emsp; Chinese Government Award for Outstanding Self-financed Students Abroad
+- 2020-2024 &emsp; PhD Fellowship, International Max Planck Research School
+- 2019/2020 &emsp; Outstanding Graduate Student, Chongqing University
+- 2019/2020 &emsp; Class A Scholarship, Chongqing University
+- 2016 &ensp;&ensp;&ensp;&ensp;&ensp;&emsp; Second Prize, 10th National College Student Chemical Engineering Design Competition, China
 
 
