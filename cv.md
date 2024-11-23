@@ -9,13 +9,11 @@ title: "Curriculum Vitae"
 
 ## Education
 Since 2020 &emsp; **Doctor of Engineering** in Process Systems Engineering
-<blockquote style="color: black;">
-  International Max Planck Research School for Advanced Methods in Process and Systems Engineering (IMPRS ProEng)
-  
-  Max Planck Institute for Dynamics of Complex Technical Systems, Germany
-  
-  Advisors: [Prof. Kai Sundmacher](https://www.mpi-magdeburg.mpg.de/person/24754/2316), [Prof. Teng Zhou](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHOU-Teng/tengzhou)
-</blockquote>
+> International Max Planck Research School for Advanced Methods in Process and Systems Engineering (IMPRS ProEng)
+> 
+> Max Planck Institute for Dynamics of Complex Technical Systems, Germany
+> 
+> Advisors: [Prof. Kai Sundmacher](https://www.mpi-magdeburg.mpg.de/person/24754/2316), [Prof. Teng Zhou](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHOU-Teng/tengzhou)
 
 2017-2020 &emsp; **Master of Science** in Chemical Engineering and Technology
 > Chongqing University, China
