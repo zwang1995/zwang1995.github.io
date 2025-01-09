@@ -30,6 +30,7 @@ Since 2020 &emsp; **Doctor of Engineering** in Process Systems Engineering
 ## Teaching Activity
 **Teaching Assistant** &emsp; Process Systems Engineering
 > Otto-von-Guericke University Magdeburg, Germany
+> - Winter Semester 2024
 > - Winter Semester 2023
 
 **Teaching Assistant** &emsp; Analysis and Design of Experiments
