@@ -1,6 +1,6 @@
 title: "Zihao Wang"
 author: "Zihao Wang"
-description: "Max Planck Institute for Dynamics of Complex Technical Systems"
+description: "Chongqing University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,9 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Publication", file: "publication.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:zwang@mpi-magdeburg.mpg.de"}
+  - {title: Mail, icon: envelope, url: "mailto:zwang1995@cqu.edu.cn"}
   - {title: Github, icon: github, url: "https://github.com/zwang1995"}
-  - {title: MPI, icon: user, url: "https://www.mpi-magdeburg.mpg.de/person/109361/842836"}
+  # - {title: MPI, icon: user, url: "https://www.mpi-magdeburg.mpg.de/person/109361/842836"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/zihao-wang-96733519a/"}
   # - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Zihao-Wang-11"}
   # - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0001-6953-0470"}
