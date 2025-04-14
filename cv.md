@@ -7,8 +7,14 @@ title: "Curriculum Vitae"
 <a href="/assets/pdf/CV_Zihao_Wang.pdf">**Download CV**</a>
 -->
 
+## Professional Career
+Since 2025 &emsp; **Research Associate (Hong Shen Junior Faculty)**
+> School of Chemistry and Chemical Engineering, Chongqing University, China
+
+<br>
+
 ## Education
-Since 2020 &emsp; **Doctor of Engineering** in Process Systems Engineering
+2020-2025 &emsp; **Doctor of Engineering** in Process Systems Engineering
 > International Max Planck Research School for Advanced Methods in Process and Systems Engineering (IMPRS ProEng)
 > 
 > Max Planck Institute for Dynamics of Complex Technical Systems, Germany
