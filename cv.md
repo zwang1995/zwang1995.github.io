@@ -18,6 +18,8 @@ Since 2025 &emsp; **Research Associate (Hong Shen Junior Faculty)**
 > International Max Planck Research School for Advanced Methods in Process and Systems Engineering (IMPRS ProEng)
 > 
 > Max Planck Institute for Dynamics of Complex Technical Systems, Germany
+>
+> Otto-von-Guericke University Magdeburg, Germany
 > 
 > Advisors: [Prof. Kai Sundmacher](https://www.mpi-magdeburg.mpg.de/person/24754/2316), [Prof. Teng Zhou](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHOU-Teng/tengzhou)
 
@@ -47,7 +49,7 @@ Since 2025 &emsp; **Research Associate (Hong Shen Junior Faculty)**
 
 <br>
 
-## Award and Honor
+## Awards and Honors
 - 2024 &ensp;&ensp;&ensp;&ensp;&ensp;&emsp; Chinese Government Award for Outstanding Self-financed Students Abroad
 - 2020-2024 &emsp; PhD Fellowship, International Max Planck Research School
 - 2019/2020 &emsp; Outstanding Graduate Student, Chongqing University
