@@ -3,7 +3,7 @@ layout: page
 title: "Publication"
 ---
 
-## Journal Article
+## Journal Articles
 1. **Z. Wang**, T. Zhou, K. Sundmacher. BayesCAMPD: Data-Efficient and closed-loop integrated molecular and process design using Bayesian optimization. **_AIChE Journal_**, **2026**. ([**Full text**](https://doi.org/10.1002/aic.70191) and [**GitHub repository**](https://github.com/zwang1995/BayesCAMPD))
 2. **Z. Wang**, T. Zhou. Computer-aided metal-organic framework screening and design approaches toward efficient carbon capture processes. **_Molecular Systems Design & Engineering_**, **2025**, 10, 1005–1023. ([**Full text**](https://doi.org/10.1039/D5ME00075K))
 3. **Z. Wang**, T. Zhou, K. Sundmacher. Data-driven integrated design of solvents and extractive distillation processes. **_AIChE Journal_**, **2023**, 69(12), e18236. ([**Full text**](https://doi.org/10.1002/aic.18236) and [**GitHub repository**](https://github.com/zwang1995/data-driven-CAMPD))
@@ -29,14 +29,14 @@ title: "Publication"
 
 <br>
 
-## Conference Paper
+## Conference Papers
 1. **Z. Wang**, T. Zhou, K. Sundmacher. Molecular property targeting for optimal solvent design in extractive distillation processes. **_Computer Aided Chemical Engineering_**, **2023**, 1247–1252. ([**Full text**](https://doi.org/10.1016/B978-0-443-15274-0.50199-2) and [**GitHub repository**](https://github.com/zwang1995/data-driven-CAMPD))
 2. **Z. Wang**, T. Zhou, K. Sundmacher. A novel machine learning-based optimization approach for the molecular design of solvents. **_Computer Aided Chemical Engineering_**, **2022**, 1477–1482. ([**Full text**](https://doi.org/10.1016/B978-0-323-95879-0.50247-2) and [**GitHub repository**](https://github.com/zwang1995/solvent-VAE-NLP))
 3. T. Zhou, **Z. Wang**, K. Sundmacher. A new machine learning framework for efficient MOF discovery: Application to hydrogen storage. **_Computer Aided Chemical Engineering_**, **2022**, 1807–1812. ([**Full text**](https://doi.org/10.1016/B978-0-323-85159-6.50301-8))
 
 <br>
 
-## Conference Talk and Poster
+## Conference Talks and Posters
 1. **Z. Wang**, T. Zhou, K. Sundmacher. Efficient computer-aided molecular and process design driven by Bayesian optimization. **Oral Presentation** at **12th World Congress of Chemical Engineering and the 21st Asian Pacific Confederation of Chemical Engineering Congress**. Beijing, China, July 16, **2025**.
 2. **Z. Wang**, T. Zhou, K. Sundmacher. Data-driven integrated design of solvents and extractive distillation processes. **Oral Presentation** at **2023 AIChE Annual Meeting**. Orlando, USA, November 08, **2023**.
 3. **Z. Wang**, T. Zhou, K. Sundmacher. Molecular property targeting for optimal solvent design in extractive distillation processes. **Poster** at **33rd European Symposium on Computer-Aided Process Engineering (ESCAPE-33)**. Athens, Greece, June 19, **2023**.
