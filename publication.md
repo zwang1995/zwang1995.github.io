@@ -13,10 +13,10 @@ title: "Publication"
 7. **Z. Wang**, Z. Song, T. Zhou. Machine learning for ionic liquid toxicity prediction. **_Processes_**, **2021**, 9(1), 65. ([**Full text**](https://doi.org/10.3390/pr9010065) and [**GitHub repository**](https://github.com/zwang1995/IL-Toxicity))
 8. **Z. Wang**, Y. Su, S. Jin, W. Shen, J. Ren, X. Zhang, J.H. Clark. A novel unambiguous strategy of molecular feature extraction in machine learning assisted predictive models for environmental properties. **_Green Chemistry_**, **2020**, 22(12), 3867–3876. ([**Full text**](https://doi.org/10.1039/d0gc01122c)) 
 9. **Z. Wang**, Y. Su, W. Shen, S. Jin, J.H. Clark, J. Ren, X. Zhang. Predictive deep learning models for environmental properties: the direct calculation of octanol-water partition coefficients from molecular graphs. **_Green Chemistry_**, **2019**, 21(16), 4555–4565. ([**Full text**](https://doi.org/10.1039/c9gc01968e))
-10. S. Chen, Y. Chen, Z. Zhu, Z. Wang, X. Zhang, Z. Li, W. Du, C. Chang, W. Shen. CIF2MOFNet: A deep learning model with multi-dimensional coordinate features to accelerate MOF screening for CO2 capture. **_AIChE Journal_**, **2026**.
-11. S. Zhang, Z. Wang, H. Gao, T. Zhou. A multitask learning model for predicting various types of metal-organic framework stability. **_Industrial & Engineering Chemistry Research_**, **2025**, 64(29), 14576-14589.
-12. Y. Chen, Z. Wang, C. Chang, W. Shen. Active learning-optimized dynamic sampling strategy for enhanced toxicity prediction of chemical compounds. **_Industrial & Engineering Chemistry Research_**, **2025**, 64(44), 21196–21210.
-13. H. Qin, Z. Wang, J. Ruan, F. Wei, Z. Yuan, W. Jiao, G. Qi, Y. Liu. Integrating machine learning model and computer-aided molecular design toward rational ionic liquid selection for separating fluorinated refrigerants. Separation and Purification Technology. 2024, 356, 129796. 
+10. S. Chen, Y. Chen, Z. Zhu, **Z. Wang**, X. Zhang, Z. Li, W. Du, C. Chang, W. Shen. CIF2MOFNet: A deep learning model with multi-dimensional coordinate features to accelerate MOF screening for CO<sub>2</sub> capture. **_AIChE Journal_**, **2026**.
+11. S. Zhang, **Z. Wang**, H. Gao, T. Zhou. A multitask learning model for predicting various types of metal-organic framework stability. **_Industrial & Engineering Chemistry Research_**, **2025**, 64(29), 14576–14589.
+12. Y. Chen, **Z. Wang**, C. Chang, W. Shen. Active learning-optimized dynamic sampling strategy for enhanced toxicity prediction of chemical compounds. **_Industrial & Engineering Chemistry Research_**, **2025**, 64(44), 21196–21210.
+13. H. Qin, **Z. Wang**, J. Ruan, F. Wei, Z. Yuan, W. Jiao, G. Qi, Y. Liu. Integrating machine learning model and computer-aided molecular design toward rational ionic liquid selection for separating fluorinated refrigerants. Separation and Purification Technology. 2024, 356, 129796. 
 14. T. Zhou, C. Gui, L. Sun, Y. Hu, H. Lyu, **Z. Wang**, Z. Song, G. Yu. Energy applications of ionic liquids: Recent developments and future prospects. **_Chemical Reviews_**, **2023**, 123(21), 12170–12253. ([**Full text**](https://doi.org/10.1021/acs.chemrev.3c00391))
 15. H. Qin, **Z. Wang**, Z. Song, X. Zhang, T. Zhou. High-throughput computational screening of ionic liquids for butadiene and butene separation. **_Processes_**, **2022**, 10(1), 165. ([**Full text**](https://doi.org/10.3390/pr10010165))
 16. H. Wen, Y. Su, **Z. Wang**, S. Jin, J. Ren, W. Shen, M. Eden. A systematic modeling methodology of deep neural network-based structure-property relationship for rapid and reliable prediction on flashpoints. **_AIChE Journal_**, **2022**, 68(1), e17402. ([**Full text**](https://doi.org/10.1002/aic.17402))
@@ -30,30 +30,15 @@ title: "Publication"
 <br>
 
 ## Conference Paper
-1. **Z. Wang**, T. Zhou, K. Sundmacher.
-   Molecular property targeting for optimal solvent design in extractive distillation processes. **_Computer Aided Chemical Engineering_**, **2023**, 1247–1252.
-   ([**Full text**](https://doi.org/10.1016/B978-0-443-15274-0.50199-2) and [**GitHub repository**](https://github.com/zwang1995/data-driven-CAMPD))
-
-2. **Z. Wang**, T. Zhou, K. Sundmacher.
-   A novel machine learning-based optimization approach for the molecular design of solvents. **_Computer Aided Chemical Engineering_**, **2022**, 1477–1482.
-   ([**Full text**](https://doi.org/10.1016/B978-0-323-95879-0.50247-2) and [**GitHub repository**](https://github.com/zwang1995/solvent-VAE-NLP))
-
-3. T. Zhou, **Z. Wang**, K. Sundmacher.
-   A new machine learning framework for efficient MOF discovery: Application to hydrogen storage. **_Computer Aided Chemical Engineering_**, **2022**, 1807–1812.
-   ([**Full text**](https://doi.org/10.1016/B978-0-323-85159-6.50301-8))
+1. **Z. Wang**, T. Zhou, K. Sundmacher. Molecular property targeting for optimal solvent design in extractive distillation processes. **_Computer Aided Chemical Engineering_**, **2023**, 1247–1252. ([**Full text**](https://doi.org/10.1016/B978-0-443-15274-0.50199-2) and [**GitHub repository**](https://github.com/zwang1995/data-driven-CAMPD))
+2. **Z. Wang**, T. Zhou, K. Sundmacher. A novel machine learning-based optimization approach for the molecular design of solvents. **_Computer Aided Chemical Engineering_**, **2022**, 1477–1482. ([**Full text**](https://doi.org/10.1016/B978-0-323-95879-0.50247-2) and [**GitHub repository**](https://github.com/zwang1995/solvent-VAE-NLP))
+3. T. Zhou, **Z. Wang**, K. Sundmacher. A new machine learning framework for efficient MOF discovery: Application to hydrogen storage. **_Computer Aided Chemical Engineering_**, **2022**, 1807–1812. ([**Full text**](https://doi.org/10.1016/B978-0-323-85159-6.50301-8))
 
 <br>
 
 ## Conference Talk and Poster
-1. **Z. Wang**, T. Zhou, K. Sundmacher.
-   Data-driven integrated design of solvents and extractive distillation processes. 
-   **Oral Presentation** at **2023 AIChE Annual Meeting**. Orlando, USA, November 08, **2023**.
-
-2. **Z. Wang**, T. Zhou, K. Sundmacher.
-   Molecular property targeting for optimal solvent design in extractive distillation processes. 
-   **Poster** at **33rd European Symposium on Computer-Aided Process Engineering (ESCAPE-33)**. Athens, Greece, June 19, **2023**.
-
-3. **Z. Wang**, T. Zhou, K. Sundmacher. 
-   A novel machine learning-based optimization approach for the molecular design of solvents. 
-   **Keynote Oral Presentation** at **32nd European Symposium on Computer-Aided Process Engineering (ESCAPE-32)**. Toulouse, France, June 13, **2022**.
+1. **Z. Wang**, T. Zhou, K. Sundmacher. Efficient computer-aided molecular and process design driven by Bayesian optimization. **Oral Presentation** at **12th World Congress of Chemical Engineering and the 21st Asian Pacific Confederation of Chemical Engineering Congress**. Beijing, China, July 16, **2025**.
+2. **Z. Wang**, T. Zhou, K. Sundmacher. Data-driven integrated design of solvents and extractive distillation processes. **Oral Presentation** at **2023 AIChE Annual Meeting**. Orlando, USA, November 08, **2023**.
+3. **Z. Wang**, T. Zhou, K. Sundmacher. Molecular property targeting for optimal solvent design in extractive distillation processes. **Poster** at **33rd European Symposium on Computer-Aided Process Engineering (ESCAPE-33)**. Athens, Greece, June 19, **2023**.
+4. **Z. Wang**, T. Zhou, K. Sundmacher. A novel machine learning-based optimization approach for the molecular design of solvents. **Keynote Oral Presentation** at **32nd European Symposium on Computer-Aided Process Engineering (ESCAPE-32)**. Toulouse, France, June 13, **2022**.
 
