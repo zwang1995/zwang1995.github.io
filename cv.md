@@ -8,7 +8,7 @@ title: "Curriculum Vitae"
 -->
 
 ## Professional Career
-Since 2025 &emsp; **Research Associate (Hong Shen Junior Faculty)**
+Since 2025 &emsp; **Research Associate (HongShen Young Faculty)**
 > School of Chemistry and Chemical Engineering, Chongqing University, China
 
 <br>
